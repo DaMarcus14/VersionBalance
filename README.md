@@ -2,7 +2,7 @@
 The game BulletBalance is made by @GuyWhosEverywhere. I am a friend and needed space to hold every version of the game for my own project surrounding BulletBalance. Note, the game itself is NOT mine! The version manager/launcher I'm making IS mine.
 
 ## Version Manager/Luncher
-It will all be coded in python because that's all I can do. But I will use turtle to make a usable GUI. But for now, I am making a Linux version because that is what I use. Shortly after releasing the Linux version, I will make a Windows 11 version (and maybe Windows 10 if I feel like it).
+It will all be coded in python because that's all I can do. But I will use CustomTkinter to make a usable GUI (originally it was going to be turtle, but I realized that's too big of a headache). But for now, I am making a Linux version because that is what I use. Shortly after releasing the Linux version, I will make a Windows 11 version (and maybe Windows 10 if I feel like it).
 
 ## AI use.
 NONE of VersionBalance will be vibe coded, that will always be true. But with that being said, a good bit of what I code I learn from AI. The case is because it is a perfect learning tool when not used as a replacement and my current CS class wont teach me a lot of things I need to know for this to work.
